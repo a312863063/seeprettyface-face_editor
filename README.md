@@ -89,11 +89,11 @@
 ## 20.调整脸的高度
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/height.jpg)<br /><br /><br />
 
-## 21.接近/远离向黑种人变化
+## 21.调整向黑种人衍变
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_black.jpg)<br /><br /><br />
 
-## 22.接近/远离向黄种人变化
+## 22.调整向黄种人衍变
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_yellow.jpg)<br /><br /><br />
 
-## 23.接近/远离向白种人变化
+## 23.调整向白种人衍变
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_white.jpg)<br /><br /><br />
