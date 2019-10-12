@@ -2,7 +2,7 @@
 &emsp;&emsp;<b>注明：这个属性编辑器适用于所有seeprettyface.com出品的定制人脸生成器,属于购买生成器的赠品。如想单独购买，可以联系QQ312863063。</b><br /><br /><br />
 
 ## 可编辑内容
-&emsp;&emsp;共有23个生成人脸的调整方向，分别如下：<br /><br />
+共有23个生成人脸的调整方向，分别如下：<br /><br />
 &emsp;&emsp;age.npy - 调整年龄<br />
 &emsp;&emsp;angle_horizontal.npy - 在左右方向上调整人脸角度<br />
 &emsp;&emsp;angle_vertical.npy - 在上下方向上调整人脸角度<br />
@@ -27,7 +27,7 @@
 &emsp;&emsp;smile.npy - 调整笑容<br />
 &emsp;&emsp;width.npy - 调整脸的宽度<br />
 <br /><br /><br />
-## 编辑样例
+## 调整样例
 <br /><b>下述样例均采用黄种人脸生成器。</b><br />
 ### 1.调整笑容
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/smile.jpg)<br />
