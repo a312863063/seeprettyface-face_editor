@@ -29,71 +29,71 @@
 <br /><br /><br />
 ## 调整样例
 <br /><b>下述样例均采用黄种人脸生成器。</b><br />
-### 1.调整笑容
+## 1.调整笑容
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/smile.jpg)<br />
 
-### 2.调整年龄
+## 2.调整年龄
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/age.jpg)<br />
 
-### 3.调整水平角度
+## 3.调整水平角度
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/angle_horizontal.jpg)<br />
 
-### 4.调整竖直角度
+## 4.调整竖直角度
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/angle_vertical.jpg)<br />
 
-### 5.调整摄影机角度
+## 5.调整摄影机角度
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/camera_rotation.jpg)<br />
 
-### 6.调整性别
+## 6.调整性别
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/gender.jpg)<br />
 
-### 7.调整颜值
+## 7.调整颜值
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/beauty.jpg)<br />
 
-### 8.调整光照
+## 8.调整光照
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/exposure.jpg)<br />
 
-### 9.调整脸型
+## 9.调整脸型
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/face_shape.jpg)<br />
 
-### 10.调整眼睛开合
+## 10.调整眼睛开合
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/eyes_open.jpg)<br />
 
-### 11.调整眼镜
+## 11.调整眼镜
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/glasses.jpg)<br />
 
-### 12.增添/减弱一些生气的情绪
+## 12.增添/减弱一些生气的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_angry.jpg)<br />
 
-### 13.增添/减弱一些厌恶的情绪
+## 13.增添/减弱一些厌恶的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_disgust.jpg)<br />
 
-### 14.增添/减弱一些害怕的情绪
+## 14.增添/减弱一些害怕的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_fear.jpg)<br />
 
-### 15.增添/减弱一些开心的情绪
+## 15.增添/减弱一些开心的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_happy.jpg)<br />
 
-### 16.增添/减弱一些沮丧的情绪
+## 16.增添/减弱一些沮丧的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_sad.jpg)<br />
 
-### 17.增添/减弱一些惊讶的情绪
+## 17.增添/减弱一些惊讶的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_surprise.jpg)<br />
 
-### 18.增添/减弱一些平静的情绪
+## 18.增添/减弱一些平静的情绪
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/emotion_easy.jpg)<br />
 
-### 19.调整脸的宽度
+## 19.调整脸的宽度
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/width.jpg)<br />
 
-### 20.调整脸的高度
+## 20.调整脸的高度
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/height.jpg)<br />
 
-### 21.接近/远离向黑种人变化
+## 21.接近/远离向黑种人变化
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_black.jpg)<br />
 
-### 22.接近/远离向黄种人变化
+## 22.接近/远离向黄种人变化
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_yellow.jpg)<br />
 
-### 23.接近/远离向白种人变化
+## 23.接近/远离向白种人变化
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_white.jpg)<br />
