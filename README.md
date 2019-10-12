@@ -98,5 +98,5 @@
 ## 23.调整向白种人衍变
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_white.jpg)<br /><br /><br /><br />
 
-# 了解制作方法：go to [seeprettyface.com](http://www.seeprettyface.com/)
+# 了解制作方法：前往[seeprettyface.com](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/luxun_happy.png)
