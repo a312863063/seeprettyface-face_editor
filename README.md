@@ -59,7 +59,7 @@
 ## 10.调整眼睛开合
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/eyes_open.jpg)<br /><br /><br />
 
-## 11.调整眼镜
+## 11.调整是否佩戴眼镜
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/glasses.jpg)<br /><br /><br />
 
 ## 12.增添/减弱一些生气的情绪
