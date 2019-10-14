@@ -1,7 +1,7 @@
 
 # 人脸属性编辑器（赠品）
 <br />
-&emsp;&emsp;<b>注明：这个属性编辑器适用于所有</b>[seeprettyface.com](http://www.seeprettyface.com)<b>出品的定制人脸生成器(仅1024px版)和官方生成器。之前这部分属于购买生成器的赠品，现在供免费下载研究。</b><br /><br /><br />
+&emsp;&emsp;<b>注明：这个属性编辑器适用于所有[seeprettyface.com](http://www.seeprettyface.com/)出品的定制人脸生成器(仅1024px版)和官方生成器。之前这部分属于购买生成器的赠品，现在供免费下载研究。</b><br /><br /><br />
 
 ## 可编辑内容
 共有23个生成人脸的调整方向，分别如下：<br /><br />
