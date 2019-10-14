@@ -1,4 +1,5 @@
 # 人脸属性编辑器（赠品）
+<br/>
 &emsp;&emsp;<b>注明：这个属性编辑器适用于所有[seeprettyface.com](http://www.seeprettyface.com)出品的定制人脸生成器(仅1024px版)和官方生成器。之前这部分属于购买生成器的赠品，现在供免费下载研究。</b><br /><br /><br />
 
 ## 可编辑内容
