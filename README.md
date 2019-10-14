@@ -1,5 +1,5 @@
 # 人脸属性编辑器（赠品）
-&emsp;&emsp;<b>注明：这个属性编辑器适用于所有[seeprettyface.com](http://www.seeprettyface.com)出品的定制人脸生成器(仅1024px版)，属于购买生成器的赠品。如想单独购买，可以联系QQ312863063。</b><br /><br /><br />
+&emsp;&emsp;<b>注明：这个属性编辑器适用于所有[seeprettyface.com](http://www.seeprettyface.com)出品的定制人脸生成器(仅1024px版)和官方生成器。之前这部分属于购买生成器的赠品，现在供免费下载研究。</b><br /><br /><br />
 
 ## 可编辑内容
 共有23个生成人脸的调整方向，分别如下：<br /><br />
@@ -99,4 +99,14 @@
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/race_white.jpg)<br /><br /><br /><br />
 
 # 了解制作方法：前往[seeprettyface.com](http://www.seeprettyface.com/)
-![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/luxun_happy.png)
+![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/luxun_happy.png)<br/><br/><br/>
+
+## 小小的赞助~
+<p align="center">
+	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
+	<p align="center">
+		<em>模型训练不易，若对您有帮助可给予小小的支持~</em>
+	</p>
+</p>
+<br/><br/><br/>
+
