@@ -103,13 +103,5 @@
 # 了解制作方法：前往[seeprettyface.com](http://www.seeprettyface.com/)
 ![Image text](https://github.com/a312863063/seeprettyface-face_editor/blob/master/examples/luxun_happy.png)<br/><br/><br/>
 
-## 小小的赞助~
-<p align="center">
-	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
-	<p align="center">
-		<em>模型训练不易，若对您有帮助可给予小小的支持~</em>
-	</p>
-</p>
-<br/><br/><br/>
 
 
